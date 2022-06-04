@@ -1,0 +1,13 @@
+{
+  "name": "lib-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no utils test specified\" && exit 1"
+  }
+}

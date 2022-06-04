@@ -1,0 +1,15 @@
+{
+  "name": "components-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lib-utils": "1.0.0",
+    "react": "^18.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no user test specified\" && exit 1"
+  }
+}

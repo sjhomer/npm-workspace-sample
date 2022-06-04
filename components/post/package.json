@@ -1,0 +1,16 @@
+{
+  "name": "components-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "components-organizer": "1.0.0",
+    "components-user": "1.0.0",
+    "react": "^18.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no post test specified\" && exit 1"
+  }
+}
